@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Spotify Clone**
+- 🔭 I’m currently working on **Wordpress Theme**
 
-- 🌱 I’m currently learning **React, PHP, MYSQL, MONGODB,**
+- 🌱 I’m currently learning **JS, Devops, Linux**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 💬 Ask me about **REACT AND PHP**
+- 💬 Ask me about **JS AND Linux**
 
 - 📫 How to reach me **shakirshaharyar125@gmail.com**
 
