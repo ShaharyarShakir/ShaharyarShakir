@@ -25,6 +25,78 @@
 # 💻 Languages and Tools:
 <img height="32" width="32" src="https://cdn.simpleicons.org/git/F05032" />  <img height="32" width="32" src="https://cdn.simpleicons.org/html5/E34F26" /> <img height="32" width="32" src="https://cdn.simpleicons.org/css/663399" />  <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/F7DF1E" />  <img height="32" width="32" src="https://cdn.simpleicons.org/archlinux/1793D1" /> <img height="32" width="32" src="https://cdn.simpleicons.org/vim/019733" />
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 38 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 37 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                100 commits         ███████████░░░░░░░░░░░░░░   42.02 % 
+🌆 Daytime                79 commits          ████████░░░░░░░░░░░░░░░░░   33.19 % 
+🌃 Evening                52 commits          █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
+🌙 Night                  7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   50 commits          █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
+Tuesday                  26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+Wednesday                46 commits          █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
+Thursday                 14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Friday                   30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+Saturday                 35 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Sunday                   37 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Karachi
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     18 repos            ███████████████░░░░░░░░░░   58.06 % 
+CSS                      7 repos             ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
+JavaScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+JSON                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/ShaharyarShakir/ShaharyarShakir/main/assets/bar_graph.png)
+
+
+ Last Updated on 22/01/2025 05:52:35 UTC
 <!--END_SECTION:waka-->
 <details>
 <summary>:collision: GitHub Stats</summary> 
