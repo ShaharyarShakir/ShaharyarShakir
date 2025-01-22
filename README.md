@@ -23,7 +23,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shaharyar-shakir-3674a027b/) 
 
 # 💻 Languages and Tools:
-<img height="32" width="32" src="https://cdn.simpleicons.org/" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/git/#F05032" />
 # 📊 GitHub Stats:
 <img align="left" src="https://github-readme-stats-delta-wine-63.vercel.app/api?username=ShaharyarShakir&show_icons=true&hide_border=true"/>
 ### 🔝 Top Contributed Repo
