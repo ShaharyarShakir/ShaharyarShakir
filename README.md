@@ -33,5 +33,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ShaharyarShakir&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-<a href="https://app.daily.dev/shaharyarshakir"><img src="https://api.daily.dev/devcards/v2/JyjscDc7FmWIErsfesF6H.png?r=z24&type=default" width="300" alt="Shaharyar Shakir's Dev Card"/></a>
+<a href="https://app.daily.dev/shaharyarshakir"><img src="./devcard.png" width="356" alt="ShaharyarShakir Dev Card"/></a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
