@@ -29,8 +29,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=ShaharyarShakir&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShaharyarShakir&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaharyarShakir&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<a href="https://app.daily.dev/shaharyarshakir"><img src="https://api.daily.dev/devcards/v2/JyjscDc7FmWIErsfesF6H.png?r=z24&type=default" width="300" alt="Shaharyar Shakir's Dev Card"/></a>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ShaharyarShakir&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+<a href="https://app.daily.dev/shaharyarshakir"><img src="https://api.daily.dev/devcards/v2/JyjscDc7FmWIErsfesF6H.png?r=z24&type=default" width="300" alt="Shaharyar Shakir's Dev Card"/></a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
