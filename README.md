@@ -25,8 +25,7 @@
 # 💻 Languages and Tools:
 <img height="32" width="32" src="https://cdn.simpleicons.org/" />
 # 📊 GitHub Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaharyarShakir)](https://github.com/anuraghazra/github-readme-stats)
-
+<img align="left" src="https://github-readme-stats-delta-wine-63.vercel.app/api?username=ShaharyarShakir&show_icons=true&hide_border=true"/>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ShaharyarShakir&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
