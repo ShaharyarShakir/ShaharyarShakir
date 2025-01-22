@@ -24,9 +24,30 @@
 
 # 💻 Languages and Tools:
 <img height="32" width="32" src="https://cdn.simpleicons.org/git/F05032" />  <img height="32" width="32" src="https://cdn.simpleicons.org/html5/E34F26" /> <img height="32" width="32" src="https://cdn.simpleicons.org/css/663399" />  <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/F7DF1E" />  <img height="32" width="32" src="https://cdn.simpleicons.org/archlinux/1793D1" /> <img height="32" width="32" src="https://cdn.simpleicons.org/vim/019733" />
-# 📊 GitHub Stats:
-<img align="left" src="https://github-readme-stats-fawn-psi-92.vercel.app/api?username=ShaharyarShakir&show_icons=true&hide_border=true"/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+<details>
+<summary>:collision: GitHub Stats</summary> 
+<img display="block" align="left" src="https://github-readme-stats-fawn-psi-92.vercel.app/api?username=ShaharyarShakir&show_icons=true&hide_border=true"/>
+</details>
 
+<details>
+  <summary>:zap: Dev Card</summary>
+  <a href="https://app.daily.dev/shaharyarshakir"><img src="./devcard.png" width="356" alt="ShaharyarShakir Dev Card"/></a>
+</details>
 
-<a href="https://app.daily.dev/shaharyarshakir"><img src="./devcard.png" width="356" alt="ShaharyarShakir Dev Card"/></a>
+<!-- Simple Icons Repo: https://github.com/simple-icons/simple-icons
+Simple Icons Site: https://simpleicons.org/
+GitHub Readme Stats: https://github.com/anuraghazra/github-readme-stats
+Shields Repo: https://github.com/badges/shields
+Shields Site: https://Shields.io
+Badges 4 Readme Profile: https://github.com/alexandresanlim/Badges4-README.md-Profile
+Markdown Badges: https://github.com/Ileriayo/markdown-badges
+GitHub Activity Readme: https://github.com/marketplace/actions/github-activity-readme
+Profile Readme Stats: https://github.com/marketplace/actions/profile-readme-development-stats
+Spotify Now Playing: https://github.com/natemoo-re/natemoo-re
+Spotify Now Playing: https://github.com/novatorem/novatorem
+GitHub Profile Readme Generator: https://github.com/rahuldkjain/github-profile-readme-generator
+Profile Examples: https://github.com/abhisheknaiidu/awesome-github-profile-readme
+-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
