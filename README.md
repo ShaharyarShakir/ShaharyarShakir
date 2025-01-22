@@ -3,7 +3,7 @@
 <h1 align="center">I'm ShaharyarShakir</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-
+**`Digital Craftsman (Developer)`**
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Wordpress Theme**
@@ -28,7 +28,7 @@
 <!--END_SECTION:waka-->
 <details>
 <summary>:collision: GitHub Stats</summary> 
-<img display="block" align="left" src="https://github-readme-stats-fawn-psi-92.vercel.app/api?username=ShaharyarShakir&show_icons=true&hide_border=true"/>
+<img  src="https://github-readme-stats-fawn-psi-92.vercel.app/api?username=ShaharyarShakir&show_icons=true&hide_border=true&theme=radical"/>
 </details>
 
 <details>
