@@ -23,12 +23,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shaharyar-shakir-3674a027b/) 
 
 # 💻 Languages and Tools:
-<img height="32" width="32" src="https://cdn.simpleicons.org/git/F05032" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png?size=48"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/git/F05032" />  <img height="32" width="32" src="https://cdn.simpleicons.org/html5/E34F26" /> <img height="32" width="32" src="https://cdn.simpleicons.org/css/663399" />  <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/F7DF1E" />  <img height="32" width="32" src="https://cdn.simpleicons.org/archlinux/1793D1" /> <img height="32" width="32" src="https://cdn.simpleicons.org/vim/019733" />
 # 📊 GitHub Stats:
-<img align="left" src="https://github-readme-stats-delta-wine-63.vercel.app/api?username=ShaharyarShakir&show_icons=true&hide_border=true"/>
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ShaharyarShakir&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<img align="left" src="https://github-readme-stats-fawn-psi-92.vercel.app/api?username=ShaharyarShakir&show_icons=true&hide_border=true"/>
+
 
 <a href="https://app.daily.dev/shaharyarshakir"><img src="./devcard.png" width="356" alt="ShaharyarShakir Dev Card"/></a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
