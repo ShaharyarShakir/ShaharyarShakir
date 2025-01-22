@@ -24,6 +24,7 @@
 
 # 💻 Languages and Tools:
 <img height="32" width="32" src="https://cdn.simpleicons.org/git/F05032" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png?size=48"/>
 # 📊 GitHub Stats:
 <img align="left" src="https://github-readme-stats-delta-wine-63.vercel.app/api?username=ShaharyarShakir&show_icons=true&hide_border=true"/>
 ### 🔝 Top Contributed Repo
