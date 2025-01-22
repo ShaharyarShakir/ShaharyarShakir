@@ -33,7 +33,8 @@
 
 <details>
   <summary>:zap: Dev Card</summary>
-  <a href="https://app.daily.dev/shaharyarshakir"><img src="./devcard.png" width="356" alt="ShaharyarShakir Dev Card"/></a>
+  <a href="https://app.daily.dev/shaharyarshakir">
+    <img height="378" src="./devcard.png" width="356" alt="ShaharyarShakir Dev Card"/></a>
 </details>
 
 <!-- Simple Icons Repo: https://github.com/simple-icons/simple-icons
