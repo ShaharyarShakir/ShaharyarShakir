@@ -23,10 +23,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shaharyar-shakir-3674a027b/) 
 
 # 💻 Languages and Tools:
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/git.svg" />
-
+<img height="32" width="32" src="https://cdn.simpleicons.org/" />
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ShaharyarShakir&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats-delta-wine-63.vercel.app/api?username=ShaharyarShakir&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShaharyarShakir&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaharyarShakir&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
