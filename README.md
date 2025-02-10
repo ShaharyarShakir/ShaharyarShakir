@@ -25,7 +25,7 @@
 # 💻 Languages and Tools:
 <img height="32" width="32" src="https://cdn.simpleicons.org/git/F05032" />  <img height="32" width="32" src="https://cdn.simpleicons.org/html5/E34F26" /> <img height="32" width="32" src="https://cdn.simpleicons.org/css/663399" />  <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/F7DF1E" />  <img height="32" width="32" src="https://cdn.simpleicons.org/archlinux/1793D1" /> <img height="32" width="32" src="https://cdn.simpleicons.org/vim/019733" />
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -103,7 +103,7 @@ JSON                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ShaharyarShakir/ShaharyarShakir/main/assets/bar_graph.png)
 
 
- Last Updated on 09/02/2025 18:41:43 UTC
+ Last Updated on 10/02/2025 18:44:06 UTC
 <!--END_SECTION:waka-->
 <details>
 <summary>:collision: GitHub Stats</summary> 
