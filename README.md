@@ -25,7 +25,7 @@
 # 💻 Languages and Tools:
 <img height="32" width="32" src="https://cdn.simpleicons.org/git/F05032" />  <img height="32" width="32" src="https://cdn.simpleicons.org/html5/E34F26" /> <img height="32" width="32" src="https://cdn.simpleicons.org/css/663399" />  <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/F7DF1E" />  <img height="32" width="32" src="https://cdn.simpleicons.org/archlinux/1793D1" /> <img height="32" width="32" src="https://cdn.simpleicons.org/vim/019733" />
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -33,7 +33,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 87 Contributions in the Year 2025
+> 🏆 88 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,21 +44,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                107 commits         ██████████░░░░░░░░░░░░░░░   38.21 % 
-🌆 Daytime                89 commits          ████████░░░░░░░░░░░░░░░░░   31.79 % 
-🌃 Evening                77 commits          ███████░░░░░░░░░░░░░░░░░░   27.50 % 
-🌙 Night                  7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+🌞 Morning                107 commits         ██████████░░░░░░░░░░░░░░░   38.08 % 
+🌆 Daytime                89 commits          ████████░░░░░░░░░░░░░░░░░   31.67 % 
+🌃 Evening                78 commits          ███████░░░░░░░░░░░░░░░░░░   27.76 % 
+🌙 Night                  7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   52 commits          █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
-Tuesday                  37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Wednesday                51 commits          █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
-Thursday                 18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-Friday                   37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Saturday                 45 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Sunday                   40 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Monday                   52 commits          █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
+Tuesday                  38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+Wednesday                51 commits          █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
+Thursday                 18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+Friday                   37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+Saturday                 45 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+Sunday                   40 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
 ```
 
 
@@ -98,7 +98,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ShaharyarShakir/ShaharyarShakir/main/assets/bar_graph.png)
 
 
- Last Updated on 17/02/2025 18:44:33 UTC
+ Last Updated on 18/02/2025 18:46:03 UTC
 <!--END_SECTION:waka-->
 <details>
 <summary>:collision: GitHub Stats</summary> 
