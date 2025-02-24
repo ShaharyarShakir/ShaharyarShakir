@@ -66,17 +66,16 @@ Sunday                   40 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-JSON                     18 mins             █████████████████████████   98.37 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-JS                       18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -96,7 +95,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ShaharyarShakir/ShaharyarShakir/main/assets/bar_graph.png)
 
 
- Last Updated on 23/02/2025 18:42:21 UTC
+ Last Updated on 24/02/2025 18:46:46 UTC
 <!--END_SECTION:waka-->
 <details>
 <summary>:collision: GitHub Stats</summary> 
