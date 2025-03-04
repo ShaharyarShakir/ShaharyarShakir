@@ -33,6 +33,8 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 117 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 16 Public Repositories 
@@ -99,7 +101,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ShaharyarShakir/ShaharyarShakir/main/assets/bar_graph.png)
 
 
- Last Updated on 03/03/2025 18:46:50 UTC
+ Last Updated on 04/03/2025 18:48:06 UTC
 <!--END_SECTION:waka-->
 <details>
 <summary>:collision: GitHub Stats</summary> 
