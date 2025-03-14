@@ -25,7 +25,7 @@
 # 💻 Languages and Tools:
 <img height="32" width="32" src="https://cdn.simpleicons.org/git/F05032" />  <img height="32" width="32" src="https://cdn.simpleicons.org/html5/E34F26" /> <img height="32" width="32" src="https://cdn.simpleicons.org/css/663399" />  <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/F7DF1E" />  <img height="32" width="32" src="https://cdn.simpleicons.org/archlinux/1793D1" /> <img height="32" width="32" src="https://cdn.simpleicons.org/vim/019733" />
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -66,19 +66,23 @@ Sunday                   48 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-JavaScript               3 hrs 43 mins       ████████████████████░░░░░   81.18 % 
-HTML                     47 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+JavaScript               3 hrs 43 mins       █████████████████░░░░░░░░   69.32 % 
+HTML                     1 hr 15 mins        ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
+CSS                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 35 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 22 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-js-practice              4 hrs 35 mins       █████████████████████████   100.00 % 
+js-practice              4 hrs 35 mins       █████████████████████░░░░   85.40 % 
+simple-faq-master        45 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 💻 Operating System: 
-WSL                      4 hrs 35 mins       █████████████████████████   100.00 % 
+WSL                      4 hrs 35 mins       █████████████████████░░░░   85.40 % 
+Windows                  47 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -98,7 +102,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ShaharyarShakir/ShaharyarShakir/main/assets/bar_graph.png)
 
 
- Last Updated on 13/03/2025 18:47:46 UTC
+ Last Updated on 14/03/2025 18:46:14 UTC
 <!--END_SECTION:waka-->
 <details>
 <summary>:collision: GitHub Stats</summary> 
