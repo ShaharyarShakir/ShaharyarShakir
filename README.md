@@ -41,7 +41,9 @@
 </div> -->
 <div align="center">
   
-  ![Shakir's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaharyarShakir&show_icons=true&theme=tokyonight)
+  ![Shakir's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaharyarShakir&show_icons=true&theme=transparent)
+  [![Shakir's current streak](https://streak-stats.demolab.com/?user=ShaharyarShakir&count_private=true&theme=transparent&title_color=00b3ff)](#)
+
   
 <!--   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShaharyarShakir&theme=transparent" height="180em" alt="Stats"/> -->
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShaharyarShakir&show_icons=true&hide_border=true&no-bg=true&no-frame=true&layout=compact&langs_count=8&hide=jupyter%20notebook,css&theme=radical" alt="Top Languages"/> -->
