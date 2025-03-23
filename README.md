@@ -1,14 +1,14 @@
 ## Hi there 👋
 
 <h1 align="center">I'm ShaharyarShakir</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">A passionate Developer</h3>
 
 **`Digital Craftsman (Developer)`**
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Wordpress Theme**
+- 🔭 I’m currently working on **Personal Sites**
 
-- 🌱 I’m currently learning **JS, Devops, Linux**
+- 🌱 I’m currently learning **Full-stack,devops**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
@@ -25,7 +25,7 @@
 # 💻 Languages and Tools:
 <img height="32" width="32" src="https://cdn.simpleicons.org/git/F05032" />  <img height="32" width="32" src="https://cdn.simpleicons.org/html5/E34F26" /> <img height="32" width="32" src="https://cdn.simpleicons.org/css/663399" />  <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/F7DF1E" />  <img height="32" width="32" src="https://cdn.simpleicons.org/archlinux/1793D1" /> <img height="32" width="32" src="https://cdn.simpleicons.org/vim/019733" />
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2030%20mins-blue)
+<!-- ![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
