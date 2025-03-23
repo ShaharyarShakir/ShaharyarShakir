@@ -35,7 +35,8 @@
 </tr>
 </table>
 
-
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShaharyarShakir&theme=transparent" alt='Profile'/>
+</div>
 <details>
 <summary>:collision: GitHub Stats</summary> 
 <img  src="https://github-readme-stats-fawn-psi-92.vercel.app/api?username=ShaharyarShakir&show_icons=true&hide_border=true&theme=radical"/>
