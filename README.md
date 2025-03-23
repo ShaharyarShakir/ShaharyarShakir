@@ -34,18 +34,18 @@
  <td align="center"> <img height="65" width="65" src="https://cdn.simpleicons.org/vim/019733" /><br>NeoVim(text editor)<br></td>
 </tr>
 </table>
-<details>
- <summary><h2 align="center">📊 My Github stats:</h2></summary>
-<div align=center>
+
+ <h2 align="center">📊 My Github stats:</h2>
+<!-- <div align=center>
   <img src="https://github-profile-trophy.vercel.app/?username=ShaharyarShakir&row=2&column=3&no-bg=true&margin-w=2&margin-h=2&no-frame=true" alt="Trophy"/>
-</div>
+</div> -->
 <div align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShaharyarShakir&theme=transparent" height="180em" alt="Stats"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShaharyarShakir&show_icons=true&hide_border=true&no-bg=true&no-frame=true&layout=compact&langs_count=8&hide=jupyter%20notebook,css&theme=radical" alt="Top Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShaharyarShakir&theme=tokyonight&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShaharyarShakir&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShaharyarShakir&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShaharyarShakir&theme=transparent" alt='Profile'/>
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShaharyarShakir&show_icons=true&hide_border=true&no-bg=true&no-frame=true&layout=compact&langs_count=8&hide=jupyter%20notebook,css&theme=radical" alt="Top Languages"/> -->
+<!--   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShaharyarShakir&theme=tokyonight&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/> -->
+<!--   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShaharyarShakir&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/> -->
+<!--   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShaharyarShakir&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/> -->
+<!--   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShaharyarShakir&theme=transparent" alt='Profile'/> -->
 </div>
 <br>
 <p align="center">
