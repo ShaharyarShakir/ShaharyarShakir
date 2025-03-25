@@ -36,8 +36,8 @@
   
   ![Shakir's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaharyarShakir&show_icons=true&theme=transparent)
   
-  [![Shakir's current streak](https://streak-stats.demolab.com/?user=ShaharyarShakir&count_private=true&theme=transparent&title_color=00b3ff)](#) 
-
+   [![GitHub Streak](https://streak-stats.demolab.com?user=ShaharyarShakir&theme=transparent)](https://git.io/streak-stats)
+   
 </div>
 <br>
 <p align="center">
