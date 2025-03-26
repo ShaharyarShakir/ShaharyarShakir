@@ -35,6 +35,8 @@
 <div align="center">
   
   ![Shakir's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaharyarShakir&show_icons=true&theme=transparent)
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaharyarShakir&theme=transparent&show_icons=true&hide_border=false&layout=compact)
   
    [![GitHub Streak](https://streak-stats.demolab.com?user=ShaharyarShakir&theme=transparent)](https://git.io/streak-stats)
    
