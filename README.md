@@ -27,7 +27,9 @@
 <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" width="65" height="65" alt="SCSS"/><br><b>SCSS (Library)</b></td>
  <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" width="65" height="65" alt="C"/><br><b>C (Language)</b></td>
  <td align="center"> <img height="65" width="65" src="https://cdn.simpleicons.org/linux" /><br>Linux(OS)<br></td> 
- <td align="center"> <img height="65" width="65" src="https://cdn.simpleicons.org/vim/019733" /><br>NeoVim(text editor)<br></td>
+ <td align="center"> <img height="65" width="65" src="https://cdn.simpleicons.org/neovim/57A143" /><br>NeoVim(text editor)<br></td>
+   <td align="center"> <img height="65" width="65" src="https://cdn.simpleicons.org/vagrant/1868F2" /><br>Vagrant(vm manager)<br></td>
+
 </tr>
 </table>
 
@@ -39,6 +41,7 @@
   ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaharyarShakir&theme=transparent&show_icons=true&hide_border=false&layout=compact)
   
    [![GitHub Streak](https://streak-stats.demolab.com?user=ShaharyarShakir&theme=transparent)](https://git.io/streak-stats)
+
    
 </div>
 <br>
