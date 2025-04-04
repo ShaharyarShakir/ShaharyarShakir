@@ -20,19 +20,20 @@
 ### 🧰 Languages and Tools
 <table align="center">
 <tr>
-<td align="center"><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="65" height="65" alt="JavaScript"/><br><b>JavaScript (Language)</b></td>
 <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="65" height="65" alt="HTML"/><br><b>HTML (Markup)</b></td>
 <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="65" height="65" alt="CSS"/><br><b>CSS (Stylesheet)</b></td> 
+<td align="center"><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="65" height="65" alt="JavaScript"/><br><b>JavaScript (Language)</b></td>
 <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="65" height="65" alt="Tailwind"/><br><b>Tailwind (Framework)</b></td>
 <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" width="65" height="65" alt="SCSS"/><br><b>SCSS (Library)</b></td>
- <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" width="65" height="65" alt="C"/><br><b>C (Language)</b></td>
+<td align="center"><img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" width="65" height="65" alt="C"/><br><b>C (Language)</b></td>
  <td align="center"> <img height="65" width="65" src="https://cdn.simpleicons.org/neovim/57A143" /><br>NeoVim(text editor)<br></td>
+ <td align="center"> <img height="65" width="65" src="https://cdn.simpleicons.org/linux" /><br>Linux(OS)<br></td> 
+
+
 </tr>
   <tr>
    <td align="center"> <img height="65" width="65" src="https://cdn.simpleicons.org/vagrant/1868F2" /><br>Vagrant(vm manager)<br></td>
-     <td align="center"> <img height="65" width="65" src="https://cdn.simpleicons.org/linux" /><br>Linux(OS)<br></td> 
-
- </tr>
+</tr>
 </table>
 
 # 📊 My Github stats
