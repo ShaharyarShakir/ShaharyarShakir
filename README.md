@@ -30,9 +30,13 @@
  <td align="center"> <img height="65" width="65" src="https://cdn.simpleicons.org/linux" /><br>Linux(OS)<br></td> 
 
 
+
 </tr>
   <tr>
    <td align="center"> <img height="65" width="65" src="https://cdn.simpleicons.org/vagrant/1868F2" /><br>Vagrant(vm manager)<br></td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="65" height="65" alt="C"/><br><b>Cloud Computing</b></td>
+      <td align="center"> <img height="65" width="65" src="https://cdn.simpleicons.org/jenkins" /><br>Jenkins(CICD)<br></td> 
+        <td align="center"> <img height="65" width="65" src="https://cdn.simpleicons.org/python" /><br>python<br></td> 
 </tr>
 </table>
 
