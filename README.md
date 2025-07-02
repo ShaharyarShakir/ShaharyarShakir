@@ -18,7 +18,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shaharyar-shakir-3674a027b/) 
 
 ### 🧰 Languages and Tools
-<table align="center">
+![Programming logos]()
+<!-- <table align="center">
 <tr>
 <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="65" height="65" alt="HTML"/><br><b>HTML (Markup)</b></td>
 <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="65" height="65" alt="CSS"/><br><b>CSS (Stylesheet)</b></td> 
@@ -38,7 +39,7 @@
       <td align="center"> <img height="65" width="65" src="https://cdn.simpleicons.org/jenkins" /><br>Jenkins(CICD)<br></td> 
         <td align="center"> <img height="65" width="65" src="https://cdn.simpleicons.org/python" /><br>python<br></td> 
 </tr>
-</table>
+</table> -->
 
 # 📊 My Github stats
 <div align="center">
