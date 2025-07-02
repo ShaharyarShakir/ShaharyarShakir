@@ -18,7 +18,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shaharyar-shakir-3674a027b/) 
 
 ### 🧰 Languages and Tools
-![Programming logos]()
+![Programming logos](https://raw.githubusercontent.com/ShaharyarShakir/ShaharyarShakir/main/assets/logo.png)
 <!-- <table align="center">
 <tr>
 <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="65" height="65" alt="HTML"/><br><b>HTML (Markup)</b></td>
