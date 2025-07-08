@@ -3,7 +3,7 @@
 **`Digital Craftsman (Developer)`**
 <p align="justify">I am an enthusiastic programmer, Student and a developer building my own version of the digital world one step at a time. My journey is guided by an endless curiosity and a desire to explore new frontiers in programming. I thrive on solving intricate problems and constantly seek opportunities to challenge myself and elevate my skills to new heights.</p>
 <p align="center"> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&duration=2000&pause=1000&color=200A74&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Full-stack+Developer;Devops+Enginner;Computer+Science+Student;Linux" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&duration=2000&pause=1000&color=200A74&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Devops+Enginner;Computer+Science+Student" alt="Typing SVG" /></a>
 </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <p align="center">
