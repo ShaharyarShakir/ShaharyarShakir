@@ -10,9 +10,9 @@
 <!-- <p align="center">Currently learning  -> Full-stack Development</p>
 <p align="center">Currently working on -> Private Projects</p> -->
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://res.cloudinary.com/dry07iyvo/image/upload/v1735366890/coding_utrxxa.gif" width="300" height="auto" alt="Coding"/>
-</p>
+</p> -->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shaharyar-shakir-3674a027b/) 
