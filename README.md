@@ -5,8 +5,8 @@
 <p align="center"> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&duration=2000&pause=1000&color=200A74&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Devops+Enginner;Computer+Science+Student;FullStack+Developer" alt="Typing SVG" /></a>
 </p>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<p align="center">
+<!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="center"> -->
 <!-- <p align="center">Currently learning  -> Full-stack Development</p>
 <p align="center">Currently working on -> Private Projects</p> -->
 </p>
