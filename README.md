@@ -39,6 +39,8 @@
       <td align="center"> <img height="65" width="65" src="https://cdn.simpleicons.org/jenkins" /><br>Jenkins(CICD)<br></td> 
         <td align="center"> <img height="65" width="65" src="https://cdn.simpleicons.org/python" /><br>python<br></td> 
 </tr>
+
+   [![GitHub Streak](https://streak-stats.demolab.com?user=ShaharyarShakir&theme=transparent)](https://git.io/streak-stats)
 </table> -->
 
 # 📊 My Github stats
@@ -48,7 +50,8 @@
 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaharyarShakir&theme=transparent&show_icons=true&hide_border=false&layout=compact)
   
-   [![GitHub Streak](https://streak-stats.demolab.com?user=ShaharyarShakir&theme=transparent)](https://git.io/streak-stats)
+   
+   ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ShaharyarShakir&theme=transparent)<br/>
 
    
 </div>
