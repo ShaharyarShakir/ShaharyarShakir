@@ -46,9 +46,9 @@
 # 📊 My Github stats
 <div align="center">
   
-  ![Shakir's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaharyarShakir&show_icons=true&theme=transparent)
+  ![Shakir's GitHub stats](https://github-readme-stats-p1yk.vercel.app/api?username=ShaharyarShakir&show_icons=true&theme=transparent)
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaharyarShakir&theme=transparent&show_icons=true&hide_border=false&layout=compact)
+  ![GitHub Stats](https://github-readme-stats-p1yk.vercel.app/api/top-langs/?username=ShaharyarShakir&theme=transparent&show_icons=true&hide_border=false&layout=compact)
   
    
    ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ShaharyarShakir&theme=transparent)<br/>
