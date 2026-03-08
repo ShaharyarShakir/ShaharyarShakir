@@ -19,6 +19,12 @@
 
 ### 🧰 Languages and Tools
 ![Programming logos](https://raw.githubusercontent.com/ShaharyarShakir/ShaharyarShakir/main/assets/logo.png)
+
+---
+### 🧮 Data Science & Visualization  
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
+
+---
 <!-- <table align="center">
 <tr>
 <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="65" height="65" alt="HTML"/><br><b>HTML (Markup)</b></td>
