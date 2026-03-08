@@ -57,7 +57,7 @@
   ![GitHub Stats](https://github-readme-stats-p1yk.vercel.app/api/top-langs/?username=ShaharyarShakir&theme=transparent&show_icons=true&hide_border=false&layout=compact)
   
    
-   ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ShaharyarShakir&theme=transparent)<br/>
+[![🔥 Streak - ShaharyarShakir](https://streak-stats.demolab.com?user=ShaharyarShakir&theme=transparent)](https://github.com/ShaharyarShakir)
 
    
 </div>
