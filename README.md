@@ -52,7 +52,7 @@
 # 📊 My Github stats
 <div align="center">
   
-  ![Shakir's GitHub stats](https://github-readme-stats-p1yk.vercel.app/api?username=ShaharyarShakir&show_icons=true&theme=transparent)
+ [![Shakir's GitHub stats](https://github-stats-extended.vercel.app/api?username=ShaharyarShakir&theme=transparent)](https://github.com/stats-organization/github-stats-extended)
 
   ![GitHub Stats](https://github-readme-stats-p1yk.vercel.app/api/top-langs/?username=ShaharyarShakir&theme=transparent&show_icons=true&hide_border=false&layout=compact)
   
